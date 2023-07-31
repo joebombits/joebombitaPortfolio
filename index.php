@@ -27,11 +27,11 @@ if(isset($_POST['submit']))
         $mail->Host = 'smtp.gmail.com';
         $mail->Port = 587;
 
-        $mail->Username='email';
-        $mail->Password='password';
+        $mail->Username='urensbombita@gmail.com';
+        $mail->Password='yisonwmdmwvksesr';
 
-        $mail->setFrom('email', 'JB Portfolio Website');
-        $mail->addAddress('email');
+        $mail->setFrom('urensbombita@gmail.com', 'JB Portfolio Website');
+        $mail->addAddress('bombitajowzel@gmail.com');
 
         $mail->isHTML(true);
         $mail->Subject="New Message from your portfolio website!";
@@ -283,6 +283,18 @@ if(isset($_POST['submit']))
                                 <a href="http://fbliteclone.infinityfreeapp.com/" target="_blank"><i class="fa-solid fa-up-right-from-square"></i></a>
                                 <a href="https://github.com/joebombits/facebookliteclone" target="_blank"><i class="fa-brands fa-github"></i></a>
                               </div>
+                            </div>
+                        </div>
+
+                        <div class="other_project">
+                            <div class="image wp-image ignoredm_7">
+                                <p><span class=other-project-description>These are some of the WordPress projects that I've worked on with a team, including creating a website based on client-approved mock-ups and amending website content as requested by the client.</span></p>
+                            </div>
+                            <div class="other_project_description">
+                            <h2>WP Projects</h2>
+                            <div>
+                                <a href="OtherWPProjects.html" target="_blank"><i class="fa-solid fa-up-right-from-square"></i></a>
+                            </div>
                             </div>
                         </div>
 

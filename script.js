@@ -6,6 +6,7 @@ const projectImg3 = document.getElementsByClassName('ignoredm_3')[0];
 const projectImg4 = document.getElementsByClassName('ignoredm_4')[0];
 const projectImg5 = document.getElementsByClassName('ignoredm_5')[0];
 const projectImg6 = document.getElementsByClassName('ignoredm_6')[0];
+const projectImg7 = document.getElementsByClassName('ignoredm_7')[0];
 
 
 document.getElementById("dmswitch").addEventListener("click", toggleTheme);
@@ -19,6 +20,7 @@ function toggleTheme() {
         projectImg4.setAttribute('data-theme', 'light');
         projectImg5.setAttribute('data-theme', 'light');
         projectImg6.setAttribute('data-theme', 'light');
+        projectImg7.setAttribute('data-theme', 'light');
 
     } else {
         htmlEl.setAttribute('data-theme', 'dark');
@@ -28,6 +30,7 @@ function toggleTheme() {
         projectImg4.setAttribute('data-theme', 'dark');
         projectImg5.setAttribute('data-theme', 'dark');
         projectImg6.setAttribute('data-theme', 'dark');
+        projectImg7.setAttribute('data-theme', 'dark');
     }
 }
 
