@@ -178,7 +178,7 @@ if(isset($_POST['submit']))
                     <p class="myprojectSub">These are the projects that I created using different tech and tools. I've built several responsive websites. Here are some of them.</p>
 
                     <div class="project_container scrollAnimation">
-                        <div class="projectImg_Odd ignoredm_1">
+                        <div class="projectImg_Odd ignoredm">
                             <img src="img/portfolioSS.png" class="d-block w-100" alt="...">
                         </div>
 
@@ -199,7 +199,7 @@ if(isset($_POST['submit']))
 
 
                     <div class="project_container scrollAnimation">
-                        <div class="projectImg_Even ignoredm_2">
+                        <div class="projectImg_Even ignoredm">
                             <img src="img/sipandblissss.png" class="d-block w-100" alt="...">
                         </div>
 
@@ -220,7 +220,7 @@ if(isset($_POST['submit']))
 
 
                     <div class="project_container scrollAnimation">
-                        <div class="projectImg_Odd ignoredm_3">
+                        <div class="projectImg_Odd ignoredm">
                             <img src="img/luxuryhotelss.png" class="d-block w-100" alt="...">
                         </div>
 
@@ -245,7 +245,7 @@ if(isset($_POST['submit']))
                     <div class="other_projects_container">
 
                         <div class="other_project">
-                            <div class="image cm-image ignoredm_4">
+                            <div class="image cm-image ignoredm">
                                 <p><span class=other-project-description>To enhance my skills for creating responsive websites, I built this project by following the design on <a class="weblink" href="https://www.freepik.com/free-psd/landing-page-template-design-newsletter_13810234.htm#query=landing%20page%20website&position=4&from_view=search&track=ais#page=1&query=l&from_query=undefined&position=0&from_view=search&track=ais">Freepik.</a> This project was built using HTML|CSS and JavaScript.</span></p>
                             </div>
                             
@@ -260,7 +260,7 @@ if(isset($_POST['submit']))
 
 
                         <div class="other_project">
-                            <div class="image res-image ignoredm_5">
+                            <div class="image res-image ignoredm">
                                 <p><span class=other-project-description>I built this project using WordPress, HTML/CSS, and Figma Web Design by <a class="weblink" href="https://www.figma.com/@kwekuseydesign">Isaac.</a> Restaurant website is a one-page website that contains essential information about the Restaurant.</span></p>
                             </div>
                             <div class="other_project_description">
@@ -274,7 +274,7 @@ if(isset($_POST['submit']))
 
 
                         <div class="other_project">
-                            <div class="image fblite-img ignoredm_6">
+                            <div class="image fblite-img ignoredm">
                                 <p><span class=other-project-description>This project was created using HTML, CSS, and PHP. A Facebook Lite clone was developed while I was taking an HMTL/CSS course on an online platform <a class="weblink" href="https://www.sololearn.com/">[SoloLearn]</a> to apply my learning from the course.</span></p>
                             </div>
                             <div class="other_project_description">
@@ -287,7 +287,7 @@ if(isset($_POST['submit']))
                         </div>
 
                         <div class="other_project">
-                            <div class="image wp-image ignoredm_7">
+                            <div class="image wp-image ignoredm">
                                 <p><span class=other-project-description>These are some of the WordPress projects that I've worked on with a team, including creating a website based on client-approved mock-ups and amending website content as requested by the client.</span></p>
                             </div>
                             <div class="other_project_description">

@@ -17,7 +17,7 @@ html[data-theme='dark'] {
     filter: invert(1) hue-rotate(180deg);
 }
 
-.ignoredm_1[data-theme='dark'], .ignoredm_2[data-theme='dark'],.ignoredm_3[data-theme='dark'],.ignoredm_4[data-theme='dark'],.ignoredm_5[data-theme='dark'],.ignoredm_6[data-theme='dark'],.ignoredm_7[data-theme='dark']{
+.ignoredm[data-theme='dark']{
     filter: invert(1) hue-rotate(180deg);
 }
 
